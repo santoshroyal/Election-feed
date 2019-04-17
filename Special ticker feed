@@ -1,0 +1,27 @@
+{
+  "st": "false",
+  "dpt": "10",
+  "nst": "30",
+  "header": "ELECTION SPECIAL",
+  "hl": "Loksbha Election Results ",
+  "Story": "",
+  "tn": "html",
+  "wu": "http://spmdev.indiatimes.com/us-elections-2016/usresults.cms",
+  "items": [
+    {
+      "hl": "Loksbha Election Results ",
+      "tn": "html",
+      "wu": "http://spmdev.indiatimes.com/us-elections-2016/usresults.cms"
+    },
+    {
+      "hl": "Assembly Election Results ",
+      "tn": "news",
+      "wu": "http://spmdev.indiatimes.com/us-elections-2016/usresults.cms"
+    },
+    {
+      "hl": "World cup score ",
+      "tn": "htmlView",
+      "wu": "http://spmdev.indiatimes.com/us-elections-2016/usresults.cms"
+    }
+  ]
+}
