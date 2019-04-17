@@ -1,0 +1,123 @@
+{
+  "title": "Lok Sabha Election Results 2019",
+  "status": "Leads + Wins",
+  "ttl_seats": 543,
+  "al_rslt": {
+    "rslt": [
+      {
+        "nm": "NDA",
+        "ws": 124,
+        "cc": "#FF9650"
+      },
+      {
+        "nm": "UPA",
+        "ws": 32,
+        "cc": "#1EB4FF"
+      },
+      {
+        "nm": "MAH",
+        "ws": 37,
+        "cc": "#ccccccc"
+      },
+      {
+        "nm": "OTH",
+        "ws": 2,
+        "cc": "#fffffff"
+      }
+    ],
+    "topState_rslt": [
+      {
+        "nm": "UP",
+        "ttl_seats": 80,
+        "rslt": [
+          {
+            "nm": "BJP",
+            "ws": 43,
+            "cc": "#ffffff"
+          },
+          {
+            "nm": "INC",
+            "ws": 43,
+            "cc": "#ffffff"
+          },
+          {
+            "nm": "MAH",
+            "ws": 43,
+            "cc": "#ffffff"
+          },
+          {
+            "nm": "BSP",
+            "ws": 43,
+            "cc": "#ffffff"
+          },
+          {
+            "nm": "OTH",
+            "ws": 43,
+            "cc": "#ffffff"
+          }
+        ]
+      },
+      {
+        "nm": "MH",
+        "ttl_seats": 80,
+        "rslt": [
+          {
+            "nm": "BJP",
+            "ws": 43,
+            "cc": "#ffffff"
+          },
+          {
+            "nm": "INC",
+            "ws": 43,
+            "cc": "#ffffff"
+          },
+          {
+            "nm": "MAH",
+            "ws": 43,
+            "cc": "#ffffff"
+          },
+          {
+            "nm": "BSP",
+            "ws": 43,
+            "cc": "#ffffff"
+          },
+          {
+            "nm": "OTH",
+            "ws": 43,
+            "cc": "#ffffff"
+          }
+        ]
+      }
+    ]
+  },
+  "pr_rslt": {
+    "Note": "Provide same structure as al_rslt for parties"
+  },
+  "topCta": [
+    {
+      "hl": "PARTY-WISE RESULT",
+      "tn": "htmlView",
+      "wu": "url"
+    },
+    {
+      "hl": "VIEW ON MAP",
+      "tn": "dataHub",
+      "wu": "url"
+    }
+  ],
+  "bottomCta": [
+    {
+      "hl": "View All States",
+      "tn": "htmlView",
+      "wu": "url"
+    },
+    {
+      "hl": "View Constituencies",
+      "tn": "htmlView",
+      "wu": "url"
+    }
+  ],
+  "majority_mark_label": "MAJORITY MARK 272",
+  "stateWise_label": "STATE-WISE",
+  "notes": "text notes"
+}
