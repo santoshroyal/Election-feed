@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "tn": "election",
+      "wu" : "URL",
+      "ttl_seats": 543,
+      "rslt": [
+        {
+          "nm": "BJP",
+          "ws": 43,
+          "cc": "#ffffff"
+        },
+        {
+          "nm": "INC",
+          "ws": 43,
+          "cc": "#ffffff"
+        },
+        {
+          "nm": "MAH",
+          "ws": 43,
+          "cc": "#ffffff"
+        },
+        {
+          "nm": "BSP",
+          "ws": 43,
+          "cc": "#ffffff"
+        },
+        {
+          "nm": "OTH",
+          "ws": 43,
+          "cc": "#ffffff"
+        }
+      ],
+      "header": "LOK SABHA 2019",
+      "status": "LEADS + WINS",
+      "showLive": true,
+      "extra_label": "MAJORITY MARK: 272"
+    },
+    {
+      "tn": "ad"
+    },
+    {
+      "tn": "election",
+      "wu" : "url",
+      "header": "ANDRAPRADESH ASSEMLY ELECTION 2019",
+      "status": "LEADS + WINS",
+      "showLive": true,
+      "ttl_seats": 200,
+      "extra_label": "MAJORITY MARK: 272",
+      "rslt": [
+        {
+          "nm": "BJP",
+          "ws": 43,
+          "cc": "#ffffff"
+        },
+        {
+          "nm": "INC",
+          "ws": 43,
+          "cc": "#ffffff"
+        },
+        {
+          "nm": "MAH",
+          "ws": 43,
+          "cc": "#ffffff"
+        },
+        {
+          "nm": "BSP",
+          "ws": 43,
+          "cc": "#ffffff"
+        },
+        {
+          "nm": "OTH",
+          "ws": 43,
+          "cc": "#ffffff"
+        }
+      ]
+    }
+  ],
+  "smallAd": {
+    "url": "adUrl"
+  },
+  "bigAd": {
+    "url": "adUrl"
+  }
+}
