@@ -1,0 +1,32 @@
+[
+  {
+    "nm": "Satish Chandra Dubey",
+    "pr": "BJP",
+    "img": "68817593",
+    "status": 3,
+    "tv": 364011,
+    "cns": "Nainital–Udhamsingh Nagar",
+    "tn": "cnt",
+    "wu": "https://timesofindia.indiatimes.com/elections"
+  },
+  {
+    "nm": "Purnmasi Ram",
+    "pr": "INC",
+    "status": 4,
+    "img": "68817593",
+    "tv": 246218,
+    "cns": "Nainital–Udhamsingh Nagar",
+    "tn": "cnt",
+    "wu": "https://timesofindia.indiatimes.com/elections"
+  },
+  {
+    "nm": "Baidya Nath Prasad Mahato",
+    "pr": "JD(U)",
+    "status": 4,
+    "img": "68817593",
+    "tv": 246218,
+    "cns": "Nainital–Udhamsingh Nagar",
+    "tn": "cnt",
+    "wu": "https://timesofindia.indiatimes.com/elections"
+  }
+]
