@@ -3,7 +3,7 @@
     "nm": "Vasundhara Raje",
     "pr": "BJP",
     "img": "68817593",
-    "status": "WON",
+    "status": 3,
     "vd": 364011,
     "cns": "Udaipur",
     "tn": "cnt",
@@ -13,7 +13,7 @@
   {
     "nm": "Rajyavardhan Singh Rathore",
     "pr": "INC",
-    "status": "LEADING",
+    "status": 1,
     "img": "68817390",
     "vd": 50000,
     "cc": "#FF7D1D",
@@ -24,7 +24,7 @@
   {
     "nm": "Baidya Nath Prasad Mahato",
     "pr": "OTH",
-    "status": "LOST",
+    "status": 4,
     "img": "68817593",
     "vd": 246218,
     "cc": "#888888",
