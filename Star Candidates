@@ -4,6 +4,7 @@
     "pr": "BJP",
     "img": "68817593",
     "status": 3,
+    "cstatus":"WON"
     "vd": 364011,
     "cns": "Udaipur",
     "tn": "cnt",
@@ -14,6 +15,7 @@
     "nm": "Rajyavardhan Singh Rathore",
     "pr": "INC",
     "status": 1,
+    "cstatus":"Leading"
     "img": "68817390",
     "vd": 50000,
     "cc": "#FF7D1D",
@@ -25,6 +27,7 @@
     "nm": "Baidya Nath Prasad Mahato",
     "pr": "OTH",
     "status": 4,
+    "cstatus":"LOST"
     "img": "68817593",
     "vd": 246218,
     "cc": "#888888",
