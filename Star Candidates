@@ -2,6 +2,7 @@
   {
     "nm": "Narendra Modi",
     "pr": "BJP",
+    "pr_cc" : "#FF7D1D",
     "img": "68817194",
     "cstatus":"WON",
     "cstatus_cc": "#ffffff",
@@ -12,6 +13,7 @@
   {
     "nm": "Rajyavardhan Singh Rathore",
     "pr": "INC",
+    "pr_cc" : "#0076CC",
     "img": "68817390",
     "cstatus":"Leading",
     "cstatus_cc": "#ffffff",
@@ -22,6 +24,7 @@
   {
     "nm": "Baidya Nath Prasad Mahato",
     "pr": "OTH",
+    "pr_cc" : "#888888",
     "img": "68817593",
     "cstatus":"LOST",
     "cstatus_cc": "#ffffff",
