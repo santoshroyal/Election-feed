@@ -5,7 +5,7 @@
     "pr_cc" : "#FF7D1D",
     "img": "68817194",
     "cstatus":"WON",
-    "cstatus_cc": "#ffffff",
+    "cstatus_cc": "#0CAB3F",
     "cMessage" : "by 364011 votes",
     "cns": "Varanasi",
     "wu": "https://timesofindia.indiatimes.com/elections"
@@ -16,7 +16,7 @@
     "pr_cc" : "#0076CC",
     "img": "68817390",
     "cstatus":"Leading",
-    "cstatus_cc": "#ffffff",
+    "cstatus_cc": "#3D5AE7",
     "cMessage" : "by 364011 votes",
     "cns": "Jaipur Rural",
     "wu": "https://timesofindia.indiatimes.com/elections"
@@ -27,7 +27,7 @@
     "pr_cc" : "#888888",
     "img": "68817593",
     "cstatus":"LOST",
-    "cstatus_cc": "#ffffff",
+    "cstatus_cc": "#62646C",
     "cMessage" : "by 364011 votes",
     "cns": "Nainital–Udhamsingh Nagar",
     "wu": "https://timesofindia.indiatimes.com/elections"
