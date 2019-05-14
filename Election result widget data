@@ -1,7 +1,8 @@
 {
   "title": "Lok Sabha Election Results 2019",
+  "dpt": "5"
   "status": "Leads + Wins",
-  "st": "true",
+  "st": "false",
   "svgUrl": "url",
   "ttl_seats": 543,
   "al_rslt": {
